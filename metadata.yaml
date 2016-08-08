@@ -1,0 +1,25 @@
+_repo: Nan-Sherwood-s-Winter-Holidays--Or-Rescuing-the-Runaways_12610
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carr, Annie Roe
+    gutenberg_agent_id: '1000'
+    url: http://www.gutenberg.org/2009/agents/1000
+description: ''
+gutenberg_bookshelf:
+- Christmas
+- Children's Book Series
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Nan Sherwood's Winter Holidays; Or, Rescuing the Runaways
+url: http://www.gutenberg.org/ebooks/12610
