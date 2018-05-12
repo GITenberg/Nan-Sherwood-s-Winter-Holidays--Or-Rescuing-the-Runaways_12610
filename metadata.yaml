@@ -1,11 +1,16 @@
 _repo: Nan-Sherwood-s-Winter-Holidays--Or-Rescuing-the-Runaways_12610
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Carr, Annie Roe
     gutenberg_agent_id: '1000'
     url: http://www.gutenberg.org/2009/agents/1000
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12610#Nan-Sherwood-s-Winter-Holidays--Or-Rescuing-the-Runaways
 gutenberg_bookshelf:
 - Christmas
 - Children's Book Series
